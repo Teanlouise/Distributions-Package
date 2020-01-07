@@ -9,6 +9,8 @@ Uploaded on pypi.org as part of an exercise for Udacity Machine Learning Enginee
 pip install distributions_tl
 ```
 
+[![pypi_distributions](https://user-images.githubusercontent.com/19520346/71863081-86123280-3147-11ea-933e-95d872b5aad3.PNG)](https://pypi.org/project/distributions-tl/)
+
 ## Steps to upload to pypi
 
 1. Create all relevant files and folders
