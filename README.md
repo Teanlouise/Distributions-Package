@@ -1,4 +1,6 @@
-# distributions_tl pypi package
+[Back to Home](https://teanlouise.github.io)
+
+![distributions_title](https://user-images.githubusercontent.com/19520346/72115324-60c53480-3392-11ea-81ce-44032537a75d.png)
 
 This package has functionality for different types of distribution frameworks. There is currently has functionality for Binomial and Guassian distributions.
 
